@@ -1,0 +1,16 @@
+{
+    "Personalization": {
+        "BackgroundEffect": "Mica",
+        "DpiScale": "Auto"
+    },
+    "Update": {
+        "CheckUpdateAtStartUp": true
+    },
+    "MainWindow": {
+        "Language": "Auto"
+    },
+    "QFluentWidgets": {
+        "ThemeColor": "#ff1e6bb8",
+        "ThemeMode": "Auto"
+    }
+}
